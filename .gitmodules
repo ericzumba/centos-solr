@@ -1,0 +1,3 @@
+[submodule "centos-java"]
+	path = centos-java
+	url = ./centos-java/
