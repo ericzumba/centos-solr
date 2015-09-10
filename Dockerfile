@@ -1,4 +1,5 @@
-FROM vivareal/centos-java:1.0
+FROM ericzumba/centos-java:1.0
+MAINTAINER Caires Santos <caires.santos@vivareal.com> & Eric Torti <eric.torti@vivareal.com>
 
 RUN adduser solr && \ 
   pushd /opt && \
